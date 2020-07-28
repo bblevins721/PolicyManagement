@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PolicyManagement.API",
+    "\\PolicyManagement.API\\bin\\Debug\\netcoreapp3.1",
+    "\\PolicyManagement.API\\Properties",
+    "\\PolicyManagement.Data"
+  ],
+  "SelectedNode": "\\PolicyManagement.Data",
+  "PreviewInSolutionExplorer": false
+}

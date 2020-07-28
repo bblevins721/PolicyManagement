@@ -33,5 +33,5 @@ Phase 3/4 (TBC):
  
   
  
-  
+  For code first approach with ef core 3.1.6 use commands here : https://elanderson.net/2019/11/asp-net-core-3-add-entity-framework-core-to-existing-project/
  
