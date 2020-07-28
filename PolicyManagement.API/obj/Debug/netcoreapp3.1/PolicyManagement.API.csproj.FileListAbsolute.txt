@@ -33,7 +33,6 @@ C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -44,9 +43,6 @@ C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
@@ -127,4 +123,14 @@ C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.csproj.CopyComplete
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.dll
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.pdb
-C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.csprojAssemblyReference.cache
+C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll

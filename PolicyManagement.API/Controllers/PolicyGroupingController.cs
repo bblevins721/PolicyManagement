@@ -9,7 +9,7 @@ using PolicyManagement.API.DTO;
 namespace PolicyManagement.API.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     public class PolicyGroupingController : ControllerBase
     {
 
