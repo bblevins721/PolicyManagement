@@ -119,12 +119,12 @@ C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\PolicyManagement.API.StaticWebAssets.Manifest.cache
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\PolicyManagement.API.StaticWebAssets.xml
+C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.AssemblyInfoInputs.cache
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.AssemblyInfo.cs
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.RazorTargetAssemblyInfo.cache
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.csproj.CopyComplete
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.dll
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.pdb
-C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DaviesK3\source\repos\kelvindavies11\PolicyManagement\PolicyManagement.API\obj\Debug\netcoreapp3.1\PolicyManagement.API.csprojAssemblyReference.cache

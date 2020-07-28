@@ -11,7 +11,7 @@ namespace PolicyManagement.Data
         /// <summary>
         /// Number of versions
         /// </summary>
-        public decimal VersionNumber { get; set; }
+        public string VersionNumber { get; set; }
 
         /// <summary>
         /// Date  Created

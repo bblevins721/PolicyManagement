@@ -40,11 +40,10 @@ namespace PolicyManagement.API
             #region Swagger
             services.AddSwaggerGen(c =>
             {
-                c.IncludeXmlComments(string.Format(@"{0}\EFCore.CodeFirst.WebApi.xml", System.AppDomain.CurrentDomain.BaseDirectory));
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "EFCore.CodeFirst.WebApi",
+                    Title = "PolicyManagement.API.Swagger",
                 });
             });
 
@@ -77,7 +76,7 @@ namespace PolicyManagement.API
             // specifying the Swagger JSON endpoint.
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "EFCore.CodeFirst.WebApi");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "PolicyManagement.API.Swagger");
             });
             #endregion
         }
