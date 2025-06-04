@@ -1,0 +1,21 @@
+{
+  "libraries": [
+    {
+      "id": 1,
+      "name": "HR"
+    },
+    {
+      "id": 2,
+      "name": "IT"
+    }
+  ],
+  "policies": [
+    {
+      "id": 1,
+      "title": "Vacation",
+      "library_id": 1,
+      "content": "Take time off",
+      "version": 1
+    }
+  ]
+}
