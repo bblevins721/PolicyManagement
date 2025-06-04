@@ -1,10 +1,10 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repository hosts an open source Policy Management platform for small to medium businesses.
 
 ### What is this repository for? ###
 
-The aim of this open source project is to provide small to medium size companies with an open-source Policy Management platform.
+The aim is to provide a lightweight system for managing company policies.
 
 ### Incremental Development Plan ###
 
@@ -21,17 +21,22 @@ Phase 2:
 Phase 3/4 (TBC):
  - Implement Policy Sunsetting and Review: Ability to schdeule a release of a policy version.
 
-Phase 3/4 (TBC): 
+Phase 3/4 (TBC):
  - Implement test framework.
- 
+
 Phase 5:
- - Workflow: Add authentication and workflow management layer to create, update, and properly route policies. 
- 
+ - Workflow: Add authentication and workflow management layer to create, update, and properly route policies.
+
 As each of the above phases are constructed, a tick (`) will be added.
- 
+
 Known Issues/Bugs:
- 
-  
- 
-  
- 
+
+### Development ###
+
+A minimal Python implementation for Phase 1 exists in `policy_management/`.
+Install dependencies and run tests with:
+
+```bash
+pip install -r requirements.txt
+pytest
+```
