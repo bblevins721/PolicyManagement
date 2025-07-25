@@ -1,12 +1,26 @@
-# README #
+# README
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repository contains an early prototype of a Policy Management platform.
+It currently provides a simple command line interface to manage policies and
+libraries stored in a JSON file.
 
-### What is this repository for? ###
+## Usage
 
-The aim of this open source project is to provide small to medium size companies with an open-source Policy Management platform.
+Run the CLI using Python:
 
-### Incremental Development Plan ###
+```
+python -m policy_management.cli [command] [options]
+```
+
+Example:
+
+```
+python -m policy_management.cli add-library "HR"
+python -m policy_management.cli add-policy "Vacation" 1 "Take time off"
+python -m policy_management.cli list-policies
+```
+
+## Incremental Development Plan
 
 Phase 1:
  - Ability to add, edit, view and delete policies.
@@ -16,22 +30,17 @@ Phase 1:
 
 Phase 2:
  - Implement Authentication: forms authentication
- - Implement Authorization and limitedrole base access (publisher (person who can create policy) & end user (person who reads and complies ot policy)).
+ - Implement Authorization and limitedrole base access (publisher (person who can create policy) & end user (person who reads and complies to policy)).
 
 Phase 3/4 (TBC):
- - Implement Policy Sunsetting and Review: Ability to schdeule a release of a policy version.
-
-Phase 3/4 (TBC): 
+ - Implement Policy Sunsetting and Review: Ability to schedule a release of a policy version.
  - Implement test framework.
- 
+
 Phase 5:
- - Workflow: Add authentication and workflow management layer to create, update, and properly route policies. 
- 
+ - Workflow: Add authentication and workflow management layer to create, update, and properly route policies.
+
 As each of the above phases are constructed, a tick (`) will be added.
- 
+
 Known Issues/Bugs:
- 
-  
- 
-  
- 
+
+- None at this time.
