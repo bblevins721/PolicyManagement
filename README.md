@@ -35,3 +35,10 @@ Known Issues/Bugs:
  
   
  
+
+### Building
+Compile the policy library with:
+
+```
+ gcc -Wall -c src/policy.c src/policy_library.c
+```
